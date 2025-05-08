@@ -48,7 +48,15 @@ push / pull
 # 깃허브
 
 - 원격 저장소 만들기
-- origin 연결하기
-- push / pull
-- 협업하기
+  - origin 연결하기
+  - push
+- fetch, pull
+  - fetch
+  - merge
+  - pull
   
+# 텍스트 꾸미기
+
+**Github**는 *원격 저장소**를 제공하는 ~서비스~이기 때문에
+
+온라인 상에서 Git의 ***버전 관리 기능***을 사용할 수 있습니다.
