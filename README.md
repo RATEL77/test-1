@@ -62,3 +62,9 @@ push / pull
 온라인 상에서 Git의 ***버전 관리 기능***을 사용할 수 있습니다.
 
 한 줄 짜리 소스 코드는 `function add(x,y) {return x + y; };`처럼 사용합니다.
+
+<https://doit-fwd.tistory.com/>
+
+[하루하루 스터디 노트](https://doit-fwd.tistory.com/)
+
+[하루하루 스터디 노트](https://doit-fwd.tistory.com/, "프론트엔드 개발 팁")
