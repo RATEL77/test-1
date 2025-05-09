@@ -1,4 +1,4 @@
-![프로필 이미지](./ChatGPT Image.png)
+![프로필 이미지](./ChatGPT-Image.png)
 
 README 파일이란?
 
