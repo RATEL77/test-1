@@ -1,3 +1,5 @@
+![프로필 이미지](./ChatGPT Image.png)
+
 README 파일이란?
 
 이곳은 저장소에 대한 설명을 작성합니다.
@@ -68,3 +70,4 @@ push / pull
 [하루하루 스터디 노트](https://doit-fwd.tistory.com/)
 
 [하루하루 스터디 노트](https://doit-fwd.tistory.com/, "프론트엔드 개발 팁")
+
